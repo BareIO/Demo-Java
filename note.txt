@@ -1,0 +1,2 @@
+Github & Local Folder
+Git - is Software that connects the Github and the Local Folder 
