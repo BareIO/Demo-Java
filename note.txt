@@ -1,2 +1,19 @@
 Github & Local Folder
 Git - is Software that connects the Github and the Local Folder 
+check if the Git is installed to your computer   `git` 
+git has been succesfully installed
+
+Local Folder in aan baro software Git 
+Git - waxa uu la socdaa in folderkaas ( wax laga baddelay, wax lagu daray, wax laga delete-gareeyay)
+
+git init - waxa uu baranayaa inta wax ee ku jira Folder-kaas
+
+git status - waxa uu kuu sheegayaa meesha ay Xaaladdu marayso
+
+Untracked file - U
+Tracked file - A
+
+git add <folde/file_name>
+
+git add . - all the files on the working directory 
+
